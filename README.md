@@ -29,8 +29,8 @@ Author: Miguel Gautier
    
 ## Steps to repoduce project and obtain tidy dataset
 > 1. Open the R Script run_analysis.R using R or RStudio.
-> 2. Confirm the working directory is the same where the R Script was save an the desired one to download project files and save the tidy dataset. 
+> 2. Confirm the working directory is the same where the R Script was saved and the desired one to download project files and save the tidy dataset. The script will create a directory called "Projectfile" in the working directory, where files will be downloaded and the tidy set will be saved.
 > 3. Run the run_analysis.R script. (The R Script will install and load the required packages for performing all the data manipulations)
 
 ## Project Output
-> A tab delimited file corresponding to the tidy dataset (tidy_data.txt)
+> A comma delimited file corresponding to the tidy dataset (tidy_data.csv)
