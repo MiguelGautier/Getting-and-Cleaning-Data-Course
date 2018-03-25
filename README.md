@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course
+# Getting-and-Cleaning-Data-Course-Project
 Final project for the Getting and Cleaning Data Course by John Hopkins in Coursera
 Author: Miguel Gautier
 
