@@ -33,4 +33,4 @@ Author: Miguel Gautier
 > 3. Run the run_analysis.R script. (The R Script will install and load the required packages for performing all the data manipulations)
 
 ## Project Output
-> A comma delimited file corresponding to the tidy dataset (tidy_data.csv)
+> A text file corresponding to the tidy dataset (tidy_data.csv)
