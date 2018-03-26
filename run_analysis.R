@@ -55,4 +55,4 @@ tidyset <- dcast(meltedset, Subject+Activity ~ variable, mean)
 
 ## Independet csv file 
 setwd(destdir)
-fwrite(tidyset,file = "tidy_data.csv",sep = ",",col.names = TRUE)
+write.table(tidyset,file = "tidy_data.txt",row.names = FALSE)
